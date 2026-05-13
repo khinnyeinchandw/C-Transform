@@ -2,7 +2,7 @@
 C# Desktop Application for Media Conversion
 
 ## 🎥 Video Demo
-[▶️ Click here to watch the Demo Video](C:\Users\Chan Chan\Videos\Screen Recordings)
+[▶️ Click here to watch the Demo Video](https://drive.google.com/file/d/1U1scZrm4lAUXCOtOA2Bs1EEjuenrLg6A/view?usp=sharing)
 
 ---
 
@@ -20,11 +20,6 @@ C-Transform is a C# desktop application built in Visual Studio for efficient med
 * IDE: Visual Studio 2022
 * Framework: .NET
 * Date: January 2024
-
-## 💻 How to Run
-1. Clone the repository.
-2. Open C-Transform.sln in Visual Studio.
-3. Build and Run (F5).
 
 ---
 
