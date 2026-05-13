@@ -24,5 +24,5 @@ C-Transform is a C# desktop application built in Visual Studio for efficient med
 ---
 
 ## Author
-Khin Nyein Chan Lwin (Information Technology Major) 
+Khin Nyein Chan Lwin (Information Technology Major)  
 *Role: Logic Implementation & Testing*
